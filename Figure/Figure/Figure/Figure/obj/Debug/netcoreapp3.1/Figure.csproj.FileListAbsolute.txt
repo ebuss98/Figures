@@ -1,0 +1,11 @@
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure.deps.json
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure.runtimeconfig.json
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure.runtimeconfig.dev.json
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure.dll
+/Users/evgenijbuss/Projects/Figure/Figure/bin/Debug/netcoreapp3.1/Figure.pdb
+/Users/evgenijbuss/Projects/Figure/Figure/obj/Debug/netcoreapp3.1/Figure.csprojAssemblyReference.cache
+/Users/evgenijbuss/Projects/Figure/Figure/obj/Debug/netcoreapp3.1/Figure.AssemblyInfoInputs.cache
+/Users/evgenijbuss/Projects/Figure/Figure/obj/Debug/netcoreapp3.1/Figure.AssemblyInfo.cs
+/Users/evgenijbuss/Projects/Figure/Figure/obj/Debug/netcoreapp3.1/Figure.dll
+/Users/evgenijbuss/Projects/Figure/Figure/obj/Debug/netcoreapp3.1/Figure.pdb

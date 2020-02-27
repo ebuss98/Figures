@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Triangle">
+    <semiPer>11</semiPer>
+    <sideA>10</sideA>
+    <sideB>5</sideB>
+    <sideC>7</sideC>
+  </Figure>
+  <Figure xsi:type="Rectangle">
+    <sideA>10</sideA>
+    <sideB>5</sideB>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <rad>10</rad>
+  </Figure>
+  <Figure xsi:type="Rectangle">
+    <sideA>5</sideA>
+    <sideB>4</sideB>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <rad>6</rad>
+  </Figure>
+  <Figure xsi:type="Circle">
+    <rad>3</rad>
+  </Figure>
+  <Figure xsi:type="Rectangle">
+    <sideA>54</sideA>
+    <sideB>1</sideB>
+  </Figure>
+</ArrayOfFigure>
